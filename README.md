@@ -60,13 +60,13 @@ Olá👋! Seja Bem-Vindo(a) ao meu GitHub. Me chamo Luiz Roberto e sou estudante
     <img
         align="left"
         alt="GitHub Stats"
-        heigth="200"
+        height="200"
         src="https://github-readme-stats.vercel.app/api?username=HerrBriz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
     <img
         align="left"
         alt="GitHub Stats"
-        heigth="200"
+        height="200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerrBriz&theme=tokyonight&layout=compact&custom_title=Tecnologias"
     />
 
